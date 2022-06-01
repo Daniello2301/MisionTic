@@ -1,0 +1,27 @@
+*************ENTRADAS***********
+11
+George Myrlie-1195593497-80-Tunja-SURA-cerebrovasculares
+Mary Srinvasan-1126317103-48-Quibdo-Salud Colmena-diabetes
+Frances Walter-1194556525-65-Valledupar-Saludcoop-cerebrovasculares
+Linda Martinez-1153482307-83-San Jose del Guaviare-Salud Colmena-hipertension
+Cynthia Marks-1229490134-21-Cali-Colseguros-hipertension
+Karen Gibson-1279250906-50-Sincelejo-Coomeva-diabetes
+Lourdes Johnson-1199792199-60-Inirida-Solsalud-diabetes
+Dana Rueb-1059250193-50-San Jose del Guaviare-Cruz Blanca-respiratorias
+Kenneth Lerud-1161049714-65-San Andres-Cruz Blanca-cancer
+Kathrin Shanahan-1166424947-53-Ibague-Colseguros-diabetes
+Angela Metcalf-1285922158-82-Valledupar-Famisana-hipertension
+
+************SALIDAS******************
+Valledupar
+1195593497 Tercera edad
+1126317103 Adulto
+1194556525 Tercera edad
+1153482307 Tercera edad
+1229490134 Joven adulto
+1279250906 Adulto
+1199792199 Adulto
+1059250193 Adulto
+1161049714 Tercera edad
+1166424947 Adulto
+1285922158 Tercera edad

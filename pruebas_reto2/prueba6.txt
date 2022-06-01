@@ -1,0 +1,99 @@
+***************ENTRADAS*****************
+47
+Mary Moore-1256077584-64-Santa Marta-Sanitas-hipertension
+Gloria Baker-1003961388-30-San Andres-Sanitas-respiratorias
+Jennifer Gomez-1213892705-53-Buracamanga-Cruz Blanca-hipertension
+George Henderson-1295607793-54-FlorenciaYopal-Colseguros-cancer
+Richard Carillo-1173227395-80-Cartagena-SURA-cerebrovasculares
+Nicole Larson-1015008826-22-Mocoa-SURA-cancer
+Carol Pennington-1179602375-73-Neiva-SALUDCOLOMBIA-hipertension
+Derrick Betterton-1207840291-74-Arauca-Famisana-hipertension
+Chris Smith-1221146016-80-Bogota-Colseguros-cardiovasculares
+Jeremy Able-1258596362-63-San Jose del Guaviare-Saludcoop-diabetes
+Winnifred Benson-1120505108-37-Buracamanga-Sanitas-diabetes
+Gene Wells-1165565648-74-Pereira-Cafesalud-cancer
+Rosanne Castaneda-1298940633-45-Leticia-Cafesalud-cardiovasculares
+Kyle Bakken-1017736442-41-San Andres-Salud Colmena-diabetes
+Jenni Flores-1275271120-85-San Jose de Cucuta-Solsalud-cardiovasculares
+Elizabeth Cook-1191444639-93-FlorenciaYopal-SALUDCOLOMBIA-hipertension
+Sebastian Nicodemus-1023375341-43-Cali-Sanitas-respiratorias
+James Davis-1251996831-72-Puerto Carreño-Famisana-hipertension
+Walter Davis-1129985876-85-Leticia-Famisana-hipertension
+William Rodrequez-1266744086-63-Cali-Famisana-cerebrovasculares
+Diane Green-1256441341-66-Ibague-Famisana-respiratorias
+Stephen Breden-1145889663-35-Santa Marta-Coomeva-diabetes
+Walter Corcoran-1100255497-28-Monteria-SURA-cardiovasculares
+Janis Hobbs-1059030349-68-San Jose del Guaviare-Famisana-cancer
+Florida Mendelson-1254461104-59-Neiva-Sanitas-cardiovasculares
+Burl Johnson-1274909371-48-Neiva-Comfenalco Valle-cardiovasculares
+Rachel Grant-1134858119-69-Villavicencio-Colseguros-hipertension
+Suzanne Amey-1047587219-24-Pereira-Coomeva-cancer
+Betty Giese-1077344227-21-Neiva-Sanitas-cerebrovasculares
+John Hall-1134187546-21-Leticia-Sanitas-diabetes
+David Suryan-1052331792-87-Cartagena-Salud Total-cardiovasculares
+Scarlet Dick-1152390295-47-Bogota-Salud Total-cancer
+Francis Fry-1104720446-80-Cali-Famisana-hipertension
+Anna Byrd-1172997924-29-Villavicencio-Salud Total-cardiovasculares
+Richard Winkfield-1131341836-36-Cartagena-SURA-cancer
+Liz Mitchell-1071533692-94-Puerto Carreño-Salud Total-cancer
+Renee Harding-1038637756-21-Popayan-Compensar-diabetes
+Amalia Anderson-1274054309-33-Valledupar-Salud Total-respiratorias
+Howard Sprague-1287066355-88-Santa Marta-SURA-diabetes
+Vernon Zerger-1141866792-50-Bogota-SALUDCOLOMBIA-cerebrovasculares
+Judith Rivas-1088187704-57-Armenia-Colseguros-cardiovasculares
+George Wishart-1224630607-62-San Jose del Guaviare-Comfenalco Valle-hipertension
+Nancy William-1209413374-85-Buracamanga-SALUDCOLOMBIA-hipertension
+Linette Thaxton-1063240191-27-Popayan-SALUDCOLOMBIA-cancer
+Joseph Knapp-1047275299-91-Santa Marta-Cruz Blanca-cerebrovasculares
+Keith Bailey-1181283209-46-Tunja-Famisana-hipertension
+Jean Knowles-1167544665-32-Pereira-Solsalud-respiratorias
+
+****************SALIDAS**********************
+Santa Marta
+1256077584 Tercera edad
+1003961388 Joven adulto
+1213892705 Adulto
+1295607793 Adulto
+1173227395 Tercera edad
+1015008826 Joven adulto
+1179602375 Tercera edad
+1207840291 Tercera edad
+1221146016 Tercera edad
+1258596362 Tercera edad
+1120505108 Adulto
+1165565648 Tercera edad
+1298940633 Adulto
+1017736442 Adulto
+1275271120 Tercera edad
+1191444639 Tercera edad
+1023375341 Adulto
+1251996831 Tercera edad
+1129985876 Tercera edad
+1266744086 Tercera edad
+1256441341 Tercera edad
+1145889663 Adulto
+1100255497 Joven adulto
+1059030349 Tercera edad
+1254461104 Adulto
+1274909371 Adulto
+1134858119 Tercera edad
+1047587219 Joven adulto
+1077344227 Joven adulto
+1134187546 Joven adulto
+1052331792 Tercera edad
+1152390295 Adulto
+1104720446 Tercera edad
+1172997924 Joven adulto
+1131341836 Adulto
+1071533692 Tercera edad
+1038637756 Joven adulto
+1274054309 Adulto
+1287066355 Tercera edad
+1141866792 Adulto
+1088187704 Adulto
+1224630607 Tercera edad
+1209413374 Tercera edad
+1063240191 Joven adulto
+1047275299 Tercera edad
+1181283209 Adulto
+1167544665 Adulto

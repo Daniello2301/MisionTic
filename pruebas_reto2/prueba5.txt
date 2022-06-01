@@ -1,0 +1,35 @@
+***************ENTRADAS***************
+15
+Ann Chapman-1229130889-87-Villavicencio-Comfenalco Valle-hipertension
+Noella Urena-1163294672-50-Rioacha-Famisana-diabetes
+Justin Word-1090130996-94-Mocoa-Comfenalco Valle-hipertension
+Stanley Roper-1067081674-44-San Jose de Cucuta-Comfenalco Valle-respiratorias
+Thomas Troupe-1295640288-73-Ibague-Cruz Blanca-cancer
+James Johnson-1236033168-61-San Andres-SALUDCOLOMBIA-diabetes
+Joe Marshall-1171480034-87-Villavicencio-Salud Total-diabetes
+Patricia Conn-1071152004-93-Rioacha-Coomeva-hipertension
+Trina Dunn-1038865869-72-Santa Marta-Cruz Blanca-diabetes
+Cecil Gavenda-1021707716-56-Santa Marta-Solsalud-cancer
+Louise Walls-1269179545-24-Puerto Carreño-SALUDCOLOMBIA-cerebrovasculares
+Marisa Campbell-1116098282-72-Pasto-Colseguros-cerebrovasculares
+Theodore Fant-1093741936-28-Popayan-Salud Total-cardiovasculares
+Jodi Reyes-1071491814-28-Tunja-Coomeva-cardiovasculares
+Margaret Amin-1037494271-76-Tunja-Salud Total-hipertension
+
+*****************SALIDAS***************
+Villavicencio
+1229130889 Tercera edad
+1163294672 Adulto
+1090130996 Tercera edad
+1067081674 Adulto
+1295640288 Tercera edad
+1236033168 Tercera edad
+1171480034 Tercera edad
+1071152004 Tercera edad
+1038865869 Tercera edad
+1021707716 Adulto
+1269179545 Joven adulto
+1116098282 Tercera edad
+1093741936 Joven adulto
+1071491814 Joven adulto
+1037494271 Tercera edad

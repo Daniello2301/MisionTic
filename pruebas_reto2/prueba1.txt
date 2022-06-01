@@ -1,0 +1,94 @@
+************************ENTRADAS*******************************
+44
+Patricia Clerc-1219413027-46-Barranquilla-Cruz Blanca-cancer
+Regina Wilson-1037132852-45-Monteria-Salud Colmena-respiratorias
+Beulah Smith-1028502252-26-Santa Marta-Comfenalco Valle-diabetes
+William Williams-1048011963-68-Pereira-Coomeva-cardiovasculares
+Travis Blevins-1070394020-33-Valledupar-Salud Colmena-cancer
+Donna Truocchio-1199589034-76-FlorenciaYopal-Solsalud-respiratorias
+Emma Robinson-1054723215-65-Mocoa-Salud Total-cardiovasculares
+Mae Drelick-1132569896-28-FlorenciaYopal-Saludcoop-cardiovasculares
+Lucille Lorenz-1150358334-60-Neiva-Saludcoop-cardiovasculares
+Doris Vadnais-1025083417-80-Popayan-Cafesalud-hipertension
+Helen Manning-1226669305-21-Leticia-SALUDCOLOMBIA-hipertension
+Nancy Ippolito-1108311851-77-Barranquilla-Sanitas-diabetes
+Katrina Stoskopf-1137009901-79-Inirida-SALUDCOLOMBIA-respiratorias
+Hazel Field-1263779496-72-Ibague-Salud Total-hipertension
+Nancy Salis-1089194757-64-Cartagena-Famisana-cardiovasculares
+Shawn Conyers-1195173096-59-Bogota-Salud Colmena-cardiovasculares
+Bruce Berry-1106553371-58-Ibague-Cruz Blanca-cerebrovasculares
+Gary Burrell-1079280851-41-Neiva-Colseguros-hipertension
+Robert Purpura-1063867969-33-San Jose de Cucuta-Solsalud-respiratorias
+John Rector-1178965298-21-San Jose de Cucuta-SALUDCOLOMBIA-cerebrovasculares
+Jeannine Labelle-1081513366-66-Inirida-Solsalud-cancer
+William Denny-1172580320-81-Arauca-Famisana-cerebrovasculares
+Jacob Thomas-1280020509-44-San Jose del Guaviare-SALUDCOLOMBIA-cancer
+Tina Lorber-1255621681-33-San Jose del Guaviare-Cafesalud-respiratorias
+Phillip Hilliard-1187115362-32-Rioacha-Cruz Blanca-cardiovasculares
+Lee Jungling-1223519063-70-Cartagena-Sanitas-cerebrovasculares
+Michael Christenson-1281198990-28-Ibague-SALUDCOLOMBIA-cardiovasculares
+Pamela Groves-1271911196-83-Inirida-Colseguros-diabetes
+Richard Hannum-1278238714-48-Santa Marta-Saludcoop-hipertension
+Sandra Griffin-1031093910-22-Medellin-Cruz Blanca-cardiovasculares
+Betty Blunt-1035500310-73-Santa Marta-Comfenalco Valle-respiratorias
+Linda Delperdang-1181931732-59-Monteria-Comfenalco Valle-cerebrovasculares
+Willie Rector-1290330598-50-Pasto-Salud Total-cardiovasculares
+Clara Odonnell-1208100505-27-Ibague-Solsalud-hipertension
+Tony Keating-1106740374-86-San Jose del Guaviare-Salud Total-diabetes
+Marcelle Cokely-1195975187-82-Monteria-Salud Colmena-respiratorias
+Tracie Germano-1098291455-68-Barranquilla-Salud Total-hipertension
+Steven Turner-1113508034-29-San Jose del Guaviare-Colseguros-cardiovasculares
+Myrtle Devlin-1041502704-79-Pasto-Saludcoop-diabetes
+Alfred Madson-1238305253-92-Pasto-Colseguros-cardiovasculares
+Alice Jenkins-1174695746-47-Monteria-SALUDCOLOMBIA-cerebrovasculares
+Jose Hernandez-1181511610-68-FlorenciaYopal-Salud Colmena-respiratorias
+William Treloar-1276692350-90-Inirida-Famisana-diabetes
+Jill Roy-1256513078-94-Cali-Cafesalud-cancer
+
+
+******************SALIDAS*************
+Monteria
+1219413027 Adulto
+1037132852 Adulto
+1028502252 Joven adulto
+1048011963 Tercera edad
+1070394020 Adulto
+1199589034 Tercera edad
+1054723215 Tercera edad
+1132569896 Joven adulto
+1150358334 Adulto
+1025083417 Tercera edad
+1226669305 Joven adulto
+1108311851 Tercera edad
+1137009901 Tercera edad
+1263779496 Tercera edad
+1089194757 Tercera edad
+1195173096 Adulto
+1106553371 Adulto
+1079280851 Adulto
+1063867969 Adulto
+1178965298 Joven adulto
+1081513366 Tercera edad
+1172580320 Tercera edad
+1280020509 Adulto
+1255621681 Adulto
+1187115362 Adulto
+1223519063 Tercera edad
+1281198990 Joven adulto
+1271911196 Tercera edad
+1278238714 Adulto
+1031093910 Joven adulto
+1035500310 Tercera edad
+1181931732 Adulto
+1290330598 Adulto
+1208100505 Joven adulto
+1106740374 Tercera edad
+1195975187 Tercera edad
+1098291455 Tercera edad
+1113508034 Joven adulto
+1041502704 Tercera edad
+1238305253 Tercera edad
+1174695746 Adulto
+1181511610 Tercera edad
+1276692350 Tercera edad
+1256513078 Tercera edad

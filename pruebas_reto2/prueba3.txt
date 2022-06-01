@@ -1,0 +1,71 @@
+*************entradas************
+33
+Susan Reynolds-1112970825-47-San Andres-Saludcoop-diabetes
+Mark Rhodes-1137460226-72-Manizales-Salud Colmena-cardiovasculares
+Roberto Clary-1291975647-23-Cali-Solsalud-cardiovasculares
+Norman Craig-1003280755-28-Sincelejo-Compensar-cancer
+Corrine Thomas-1090812272-32-Popayan-Comfenalco Valle-cerebrovasculares
+Eric Girard-1243833269-58-San Jose del Guaviare-Sanitas-diabetes
+Crystal Higgins-1167850680-92-Barranquilla-Colseguros-hipertension
+Jeffrey Brantner-1272590464-23-Popayan-SURA-diabetes
+Yolanda Himmons-1141145613-40-San Andres-Solsalud-diabetes
+John Harper-1008186709-75-Manizales-Cruz Blanca-cerebrovasculares
+Catherine Mccoy-1206794248-58-Buracamanga-SALUDCOLOMBIA-diabetes
+Deborah Mcdonald-1234510164-87-San Andres-Solsalud-hipertension
+Allie Palmer-1213306441-29-Santa Marta-Solsalud-cerebrovasculares
+Thomas Loney-1000208367-38-Monteria-Sanitas-hipertension
+Brenda Issac-1052584874-90-FlorenciaYopal-Compensar-hipertension
+Emma Willson-1222863855-81-Bogota-Sanitas-cardiovasculares
+Sharon Palmquist-1006085772-63-Mitu-Salud Colmena-diabetes
+Ruth Corley-1095410574-33-Buracamanga-Coomeva-cerebrovasculares
+Vera Pena-1039312461-89-Armenia-Famisana-cardiovasculares
+Carlos Brafman-1200973159-37-Sincelejo-Saludcoop-diabetes
+William Pulaski-1224678522-91-Monteria-Salud Total-cerebrovasculares
+Sherry Vaught-1042301096-61-Puerto Carreño-Saludcoop-cerebrovasculares
+Jackson Fritsch-1178838465-36-Arauca-Salud Total-cardiovasculares
+Danny Donovan-1171669996-68-Mitu-Colseguros-hipertension
+Gary Baucom-1292232222-57-Neiva-Salud Colmena-cancer
+Eleanor Hill-1276850429-24-Popayan-Solsalud-cardiovasculares
+Nicole Harris-1155404467-74-Santa Marta-Famisana-respiratorias
+Tiffany Zepeda-1077583485-68-Medellin-Famisana-diabetes
+James Brown-1192761197-71-Tunja-Famisana-cerebrovasculares
+Frances Hall-1103783328-35-Armenia-Saludcoop-respiratorias
+Johnnie Kohl-1162421188-46-Medellin-Saludcoop-diabetes
+Heather Ewy-1216088694-27-Puerto Carreño-Colseguros-cerebrovasculares
+Sibyl Day-1290971615-24-Puerto Carreño-SALUDCOLOMBIA-respiratorias
+
+*****************salidas****************
+San Andres
+1112970825 Adulto
+1137460226 Tercera edad
+1291975647 Joven adulto
+1003280755 Joven adulto
+1090812272 Adulto
+1243833269 Adulto
+1167850680 Tercera edad
+1272590464 Joven adulto
+1141145613 Adulto
+1008186709 Tercera edad
+1206794248 Adulto
+1234510164 Tercera edad
+1213306441 Joven adulto
+1000208367 Adulto
+1052584874 Tercera edad
+1222863855 Tercera edad
+1006085772 Tercera edad
+1095410574 Adulto
+1039312461 Tercera edad
+1200973159 Adulto
+1224678522 Tercera edad
+1042301096 Tercera edad
+1178838465 Adulto
+1171669996 Tercera edad
+1292232222 Adulto
+1276850429 Joven adulto
+1155404467 Tercera edad
+1077583485 Tercera edad
+1192761197 Tercera edad
+1103783328 Adulto
+1162421188 Adulto
+1216088694 Joven adulto
+1290971615 Joven adulto

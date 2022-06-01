@@ -1,0 +1,81 @@
+*************ENTRADAS*****************
+38
+Katharine Carney-1036226191-78-Medellin-Cruz Blanca-cancer
+Mary Mainor-1193745725-52-Barranquilla-Comfenalco Valle-respiratorias
+Maria Jones-1173244390-21-Bogota-Saludcoop-cardiovasculares
+Jessie Braaten-1177210551-48-Bogota-Cafesalud-respiratorias
+Anna Wymer-1288243774-50-Rioacha-Saludcoop-diabetes
+Travis Frith-1102192258-64-Buracamanga-Colseguros-diabetes
+Glen Carver-1180767543-79-Monteria-Cruz Blanca-cardiovasculares
+Amanda Jackson-1274255551-71-Pereira-Comfenalco Valle-cerebrovasculares
+Miguel Brown-1001025692-46-Armenia-Sanitas-cerebrovasculares
+Mildred Mead-1009850341-74-Medellin-Colseguros-respiratorias
+Elizabeth Arnold-1073280378-46-Popayan-Cafesalud-cardiovasculares
+David Leyh-1288522398-32-Leticia-Colseguros-respiratorias
+Dollie Holmes-1137224783-71-Villavicencio-SALUDCOLOMBIA-diabetes
+Stephen Hughes-1055628318-91-San Jose del Guaviare-Salud Colmena-cancer
+Lois Lovell-1267864971-75-Tunja-SURA-hipertension
+Andrew Davis-1021447482-39-San Jose del Guaviare-Famisana-hipertension
+James Pearce-1225058071-32-Ibague-Colseguros-diabetes
+Greg Walsh-1272126876-54-Sincelejo-Compensar-cardiovasculares
+Jane Addington-1104564036-69-Pasto-Salud Colmena-cardiovasculares
+Hector Shields-1142399413-36-San Jose del Guaviare-SURA-cardiovasculares
+James Rohn-1084226220-43-Mitu-SALUDCOLOMBIA-cerebrovasculares
+Jesus Dees-1134792248-58-Buracamanga-Comfenalco Valle-cardiovasculares
+Rodney Volkert-1110244700-77-Popayan-SALUDCOLOMBIA-hipertension
+Don Keeling-1220217550-25-Monteria-Salud Total-respiratorias
+Jill Buser-1102090394-84-Arauca-Comfenalco Valle-cardiovasculares
+Francis Pope-1088275228-25-Arauca-Sanitas-cerebrovasculares
+Shawn Losh-1147826370-75-Pereira-Salud Colmena-cerebrovasculares
+Rebecca Malone-1271163489-42-Buracamanga-Famisana-diabetes
+Ryan May-1004302438-28-Buracamanga-Comfenalco Valle-cerebrovasculares
+Carol Fry-1222608009-79-Arauca-Saludcoop-cardiovasculares
+Donald Emme-1004207981-29-San Andres-Cruz Blanca-cancer
+Mitchell Moore-1244322480-76-Villavicencio-Famisana-cardiovasculares
+Martha Burns-1060390338-76-Cartagena-Cafesalud-diabetes
+Virginia Guillette-1271325779-88-Manizales-Solsalud-respiratorias
+Angel Figueroa-1098540328-32-Monteria-Salud Colmena-hipertension
+Charles Dube-1222266414-36-Rioacha-Comfenalco Valle-diabetes
+Louis Myers-1116738004-26-Armenia-Saludcoop-cancer
+Emily Morales-1011529263-68-Manizales-Sanitas-respiratorias
+
+******************SALIDAS******************
+Buracamanga
+1036226191 Tercera edad
+1193745725 Adulto
+1173244390 Joven adulto
+1177210551 Adulto
+1288243774 Adulto
+1102192258 Tercera edad
+1180767543 Tercera edad
+1274255551 Tercera edad
+1001025692 Adulto
+1009850341 Tercera edad
+1073280378 Adulto
+1288522398 Adulto
+1137224783 Tercera edad
+1055628318 Tercera edad
+1267864971 Tercera edad
+1021447482 Adulto
+1225058071 Adulto
+1272126876 Adulto
+1104564036 Tercera edad
+1142399413 Adulto
+1084226220 Adulto
+1134792248 Adulto
+1110244700 Tercera edad
+1220217550 Joven adulto
+1102090394 Tercera edad
+1088275228 Joven adulto
+1147826370 Tercera edad
+1271163489 Adulto
+1004302438 Joven adulto
+1222608009 Tercera edad
+1004207981 Joven adulto
+1244322480 Tercera edad
+1060390338 Tercera edad
+1271325779 Tercera edad
+1098540328 Adulto
+1222266414 Adulto
+1116738004 Joven adulto
+1011529263 Tercera edad
